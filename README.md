@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type in a number or phrase and this gem will tell you if it's a palindrome.
 
 ## Development
 
